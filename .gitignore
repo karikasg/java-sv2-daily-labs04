@@ -1,5 +1,6 @@
 /shelf/
 /workspace.xml
-.idea
-.git
+/.git/
 target
+/.idea/
+
